@@ -247,6 +247,26 @@ section {
   width: 30%;
 }
 
+.border-left {
+  border-left: 1px solid #E1E0E4;
+  padding: 3rem 5rem;
+}
+
+.py-3 {
+  padding: 0rem 5rem;
+}
+
+.mb-6 {
+  margin-bottom: 4rem;
+}
+
+.mt-6 {
+  margin-top: 4rem;
+}
+
+.text-center {
+  text-align: center;
+}
 
 .text-bold {
   padding: 0.5rem 2rem;
