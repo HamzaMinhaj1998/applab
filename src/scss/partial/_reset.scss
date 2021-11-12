@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+html {
+    width: 100%;
+    height: 100%;
+    display: table;
+} 
+
+body {
+    width: 100%;
+    min-height: 100%;
+    display: table-cell;
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    padding: 0;
+    margin: 0;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    padding: 0;
+    margin: 0;
+}
+

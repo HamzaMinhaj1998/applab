@@ -1,0 +1,136 @@
+.head-section {
+    width: 100%;
+    min-height: 100%;
+    position: relative;
+    background-image: url('../../assets/image/hero-bg.png');
+    background-size: cover;
+}
+
+.navbar {
+    width: 100%;
+    position: fixed;
+    display: flex;
+    z-index: 1;
+    padding: 1rem 2rem;
+}
+
+.bg-light {
+    background-color: rgba(255,255,255,1) !important;
+}
+
+.py-8 {
+    padding: 7.5rem 0rem;
+}
+
+.pt-8 {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+}
+
+
+
+.navbar-light .navbar-nav .nav-link {
+    font-weight: 500;
+}
+
+.navbar-light .navbar-nav .info-btn {
+    position: absolute;
+    right: 50px;
+    font-weight: 500;
+    border-radius: 20px;
+    padding: 0.5rem 1.5rem;
+    color: white;
+    background-color: #2500F9;
+    text-decoration: none;
+}
+
+.head-1 {
+    font-weight: bold;
+    margin: 2rem 0rem;
+}
+
+.p-class {
+    margin: 2rem 0rem;
+}
+
+.head-btn {
+    display: inline-block;
+    background-color: #2500F9;
+    text-decoration: none;
+    color: white;
+    padding: 0.6rem 1.5rem;
+    border-radius: 20px;
+    font-weight: 500;
+}
+
+.head-btn:hover {
+    color: white;
+}
+
+.head-link {
+    text-decoration: none;
+    color: #2500F9;
+    margin-left: 1rem;
+}
+
+.head-link:hover {
+    color: #2500F9;
+}
+
+.wrapper-1 {
+    padding: 0rem 5rem;
+}
+
+.wrapper-2 {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+
+.navbar-light .navbar-nav .info-btn:hover,
+.navbar-light .navbar-nav .info-btn:active {
+    color: white;
+}
+
+.info-img {
+    width: 60%;
+    object-fit: cover;
+}
+
+.mobi {
+    margin-left: 4rem;
+}
+
+.center {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    padding-left: 4rem;
+    
+}
+
+.mx-1 {
+    margin: 2rem 0rem;
+    font-weight: bold;
+}
+
+.head-con .btn-primary {
+    width: 30%;
+    margin-top: 1rem;
+    border-radius: 20px;
+    padding: 0.5rem 1rem;
+    background-color: #2500F9;
+    outline: none;
+    font-weight: 500;
+    font-size: 16px;
+    box-shadow: none;
+    margin-bottom: 15px;
+    margin-right: 15px;
+}
+
+.span-btn .demo {
+    text-decoration: none;
+    color: #2500F9;
+}

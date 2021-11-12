@@ -1,0 +1,17 @@
+@media (min-width: 991px) { 
+    .navbar-expand-lg .navbar-collapse {
+        justify-content: center;
+    }
+ }
+
+ @media (max-width: 991px) { 
+    .py-8 {
+        flex-flow: column-reverse wrap;
+    }
+    .navbar-light .navbar-nav .info-btn {
+        left: 0px;
+        margin-top: 1rem;
+        position: relative;
+        display: inline-block;
+    }
+ }
