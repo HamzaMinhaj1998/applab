@@ -76,12 +76,8 @@ section {
     margin: 1rem 0rem;
 }
 
-.p-3 {
-    padding: 0rem 0rem;
-}
-
 .sm-btn {
-    margin: 0rem 6rem 2rem 6rem;
+    margin: 2rem 8rem;
     width: 150px;
 }
 
@@ -102,4 +98,8 @@ section {
     flex-flow: row wrap;
     justify-content: center;
     align-items: center;
+}
+
+.head-link {
+    margin: 0rem 1rem;
 }

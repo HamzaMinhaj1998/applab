@@ -299,12 +299,8 @@ section {
   margin: 1rem 0rem;
 }
 
-.p-3 {
-  padding: 0rem 0rem;
-}
-
 .sm-btn {
-  margin: 0rem 6rem 2rem 6rem;
+  margin: 2rem 8rem;
   width: 150px;
 }
 
@@ -351,6 +347,10 @@ section {
   -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
+}
+
+.head-link {
+  margin: 0rem 1rem;
 }
 
 @media (min-width: 991px) {
